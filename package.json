@@ -16,21 +16,21 @@
   "license": "UNLICENSED",
   "author": {
     "name": "Final Child",
-    "email": "finalchild2@gmail.com",
-    "url": "https://finalchild.me/"
+    "email": "me@finalchild.dev",
+    "url": "https://finalchild.dev/"
   },
   "main": "markcafe.mjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finalchild/our-mc-tutorial.git"
+    "url": "git+https://github.com/Our-Minecraft-Space/our-mc-tutorial.git"
   },
   "scripts": {
     "generate": "node markcafe.mjs"
   },
   "dependencies": {
-    "fs-extra": "^8.1.0",
-    "juice": "^6.0.0",
-    "markdown-it": "^10.0.0",
-    "markdown-it-container": "^2.0.0"
+    "fs-extra": "^11.2.0",
+    "juice": "^10.0.0",
+    "markdown-it": "^14.0.0",
+    "markdown-it-container": "^4.0.0"
   }
 }
