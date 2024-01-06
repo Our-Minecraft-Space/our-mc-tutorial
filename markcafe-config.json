@@ -3,7 +3,6 @@
     "imagesDirectoryPath": "./images",
     "cssPath": "./style.css",
     "generatedDirectoryPath": "./generated",
-    "cname": "tutorial.finalchild.me",
     "markdownItOptions": {
         "html": true,
         "breaks": true,
